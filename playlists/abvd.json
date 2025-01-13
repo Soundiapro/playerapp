@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "displayTimeSeconds": 10,
+      "name": "Screenshot_20250113-165034.png",
+      "type": "IMAGE_PNG",
+      "uriString": "content://com.android.providers.media.documents/document/image%3A1000008682"
+    },
+    {
+      "displayTimeSeconds": 10,
+      "name": "IMG-20250113-WA0003.jpg",
+      "type": "IMAGE_JPG",
+      "uriString": "content://com.android.providers.media.documents/document/image%3A1000008625"
+    }
+  ],
+  "name": "abvd"
+}
